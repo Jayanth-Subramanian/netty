@@ -1,0 +1,7 @@
+com\netty\chat\server\ChatServer.class
+com\netty\chat\server\ChatServer$1.class
+com\netty\chat\server\XMLConverter.class
+com\netty\chat\client\ChatClient.class
+com\netty\chat\server\ChatServerHandler.class
+com\netty\chat\client\ChatClient$1.class
+com\netty\chat\client\ChatClientHandler.class
